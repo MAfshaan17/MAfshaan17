@@ -1,259 +1,249 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!--                    MAHAMMAD AFSHAAN                           -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# MAHAMMAD AFSHAAN
-
-### Computer Science & Business Systems Student · AI/ML Builder · Software Engineer
-
-<p>
-  Building intelligent systems, AI-powered applications, and production-ready software.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1f14,100:00d26a&height=220&section=header&text=Mahammad%20Afshaan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Agentic%20Systems%20%7C%20Software%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br>
 
-<a href="https://portfolio-gamma-green-v41b24el7g.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-00D26A?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://portfolio-gamma-green-v4lb24el7g.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-00D26A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/mahammad-afshaan05/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:mafshaan1917@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
+
+ 
+
 <a href="https://github.com/MAfshaan17">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://www.linkedin.com/in/mahammad-afshaan05/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="mailto:mafshaan1917@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MAfshaan17&label=Profile%20Views&color=00D26A&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=MAfshaan17&label=PROFILE%20VIEWS&color=00d26a&style=flat-square"/>
 
 </div>
 
 ---
 
-## 👋 About Me
+# `> whoami`
 
-I'm a **Computer Science & Business Systems student at JSS Science and Technology University, Mysuru**, focused on turning ideas into practical software systems.
+<div align="center">
 
-My interests sit at the intersection of:
+### AI / Agentic Systems Builder
 
-* 🤖 Generative AI & Agentic AI
-* 🧠 LLM applications & RAG systems
-* 🔗 Multi-agent architectures
-* ⚙️ Backend engineering & APIs
-* 🗄️ Databases & system design
-* 👁️ Computer vision & real-world AI
-* ☁️ Cloud deployment & production engineering
-* 🔐 Secure and reliable software systems
+</div>
 
-I enjoy going beyond prototypes — understanding the architecture, connecting the components, testing the system, and turning an idea into something people can actually use.
+I'm **Mahammad Afshaan**, a Computer Science & Business Systems student at **JSS Science and Technology University, Mysuru**, interested in building intelligent software that moves beyond simple demos.
 
----
-
-## 🚀 What I'm Building
+My current focus is on combining **AI, backend engineering, system design, and real-world product development**.
 
 ```text
-AI Systems
-├── Agentic AI
-├── Multi-Agent Systems
-├── RAG Pipelines
-├── LLM Applications
-└── AI + Computer Vision
-
-Software Engineering
-├── Backend Architecture
-├── REST APIs
-├── Database Systems
-├── Authentication
-└── Production-ready Applications
-
-Engineering
-├── Cloud Deployment
-├── System Design
-├── API Integration
-├── Testing & Debugging
-└── Performance Optimization
+┌──────────────────────────────────────────────────────────────┐
+│                     CURRENT FOCUS                             │
+├──────────────────────────────────────────────────────────────┤
+│  🤖 Agentic AI              → Multi-agent systems             │
+│  🧠 LLM Engineering         → RAG + AI applications           │
+│  ⚙️ Backend Engineering     → APIs + system architecture      │
+│  👁️ Computer Vision         → Real-world AI                   │
+│  ☁️ Deployment              → Production-ready systems        │
+│  🧩 Product Engineering     → Idea → System → Product         │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧠 Currently Exploring
+# `> about.me`
 
-* Agentic AI architectures
-* Multi-agent orchestration
-* LangGraph & LangChain
-* Advanced RAG architectures
-* LLM application engineering
-* AI-powered computer vision
-* FastAPI backend development
-* Cloud deployment
-* Production AI systems
-* Cybersecurity fundamentals
-* Data Structures & Algorithms
+* 🎓 Computer Science & Business Systems student
+* 🤖 Building with **Generative AI and Agentic AI**
+* 🧠 Exploring **LLMs, RAG, LangGraph and multi-agent architectures**
+* ⚙️ Building backend systems with **FastAPI, Node.js and Express**
+* 🗄️ Working with **MongoDB, PostgreSQL and SQL**
+* 🚀 Interested in taking AI projects from **prototype → deployment**
+* 💻 Strengthening **DSA, system design and core CS**
+* 🏗️ Building projects that solve practical problems
+
+<br>
+
+> **I don't just want to use AI. I want to understand how to build systems around it.**
 
 ---
 
-# 🛠️ Tech Stack
+# `> technology.stack`
 
-### Languages
+### LANGUAGES
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" />
 </p>
 
-### AI / Machine Learning
+### AI / LLM
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-**LangChain · LangGraph · Gemini API · Groq API · RAG · LLMs · Prompt Engineering · AI Agents**
+`LangChain` · `LangGraph` · `RAG` · `LLMs` · `AI Agents` · `Gemini API` · `Groq API` · `Prompt Engineering`
 
-### Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-</p>
-
-**REST APIs · JWT · Authentication · API Integration**
-
-### Frontend
+### FRONTEND
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 </p>
 
-### Databases
+### BACKEND
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
+
+`REST APIs` · `JWT` · `Authentication` · `API Integration`
+
+### DATABASES
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 </p>
 
-### Tools & Platforms
+### TOOLS / CLOUD
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,vercel" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# `> what.i.build`
 
-## 🤖 Swarm OS
+<div align="center">
 
-**Multi-Agent AI Platform**
+| SYSTEM                 | WHAT IT DOES                             | CORE TECHNOLOGY               |
+| :--------------------- | :--------------------------------------- | :---------------------------- |
+| 🤖 **Swarm OS**        | Multi-agent product engineering platform | LangGraph · FastAPI · React   |
+| 🛡️ **SafeSpace Plus** | AI-powered digital wellness platform     | Next.js · MongoDB · Gemini    |
+| 🎓 **GradiifyAI**      | KCET counselling intelligence platform   | TypeScript · AI               |
+| 👓 **PathGuard**       | Smart-glasses AI assistant               | Computer Vision · AI · Mobile |
+| 🌐 **Portfolio**       | Personal engineering portfolio           | React · Vercel                |
 
-A multi-agent platform designed to transform startup ideas into structured product requirements, technical architecture, and implementation-ready outputs.
-
-**Highlights**
-
-* Multi-agent AI architecture
-* Automated requirement analysis
-* Product and technical specification generation
-* Architecture planning
-* Interactive idea-validation workflow
-* LLM-powered reasoning pipeline
-
-**Stack**
-
-`React` · `Tailwind CSS` · `Python` · `FastAPI` · `LangGraph` · `Groq API`
+</div>
 
 ---
 
-## 🛡️ SafeSpace Plus
+# `> featured.project`
 
-**AI-Powered Mental Wellness Platform**
+## 🤖 SWARM OS
 
-A full-stack application designed around digital wellness, habit tracking, mood monitoring, and personalized AI-assisted experiences.
+### Multi-Agent AI Product Engineering Platform
 
-**Highlights**
+Swarm OS transforms an initial startup idea into structured product requirements, technical architecture, and implementation-ready outputs using a coordinated AI-agent workflow.
 
-* Secure authentication
-* Mood and habit tracking
-* Digital journaling
-* Personalized AI interactions
-* Progress tracking
-* User-focused dashboard
-* Full-stack architecture
+```text
+                    USER IDEA
+                        │
+                        ▼
+               ┌─────────────────┐
+               │  IDEA ANALYZER   │
+               └────────┬────────┘
+                        │
+                        ▼
+               ┌─────────────────┐
+               │ REQUIREMENT AI  │
+               └────────┬────────┘
+                        │
+             ┌──────────┴──────────┐
+             ▼                     ▼
+      ARCHITECTURE AGENT     PRODUCT AGENT
+             │                     │
+             └──────────┬──────────┘
+                        ▼
+                 OUTPUT / PLAN
+```
 
-**Stack**
-
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Express.js` · `MongoDB` · `JWT`
-
----
-
-## 🎓 GradiifyAI
-
-**AI-Powered KCET Counselling Platform**
-
-An AI-assisted counselling platform designed to analyze KCET-related data and help students explore college and branch possibilities.
-
-**Highlights**
-
-* Data-driven recommendations
-* Rank and category analysis
-* College and branch exploration
-* AI-assisted decision support
-* Interactive user experience
-
-**Stack**
-
-`TypeScript` · `React` · `AI APIs` · `Data Processing`
+**Stack:** `React` `Tailwind` `Python` `FastAPI` `LangGraph` `Groq API`
 
 ---
 
-## 👓 PathGuard
+## 👓 PATHGUARD
 
-**Smart-Glasses + Smartphone AI Assistant**
+### AI Assistant for Smart Glasses
 
-An ongoing concept focused on building an intelligent wearable assistant where smart glasses act as the sensing interface while the smartphone handles AI processing, connectivity, navigation, and orchestration.
+A wearable AI concept where the glasses primarily handle **camera, microphone, speaker and connectivity**, while the smartphone acts as the compute hub.
 
-**Planned capabilities**
+```text
+SMART GLASSES
+     │
+     │ Camera / Mic / Audio
+     ▼
+SMARTPHONE
+     │
+     ├── AI Processing
+     ├── Navigation
+     ├── GPS
+     ├── Internet
+     └── App Orchestration
+     │
+     ▼
+REAL-WORLD ASSISTANCE
+```
 
+Potential capabilities include:
+
+* 🗺️ Turn-by-turn navigation
+* 🚧 Obstacle and hazard detection
+* 🕳️ Pothole awareness
+* 🏪 Context-aware nearby discovery
+* 💰 Currency / change assistance
+* 🛡️ Transaction awareness
 * 🎙️ Conversational voice interaction
-* 🗺️ Navigation and turn-by-turn guidance
-* 🚧 Real-time obstacle and hazard detection
-* 🕳️ Pothole and road-condition awareness
-* 🏪 Context-aware nearby-place discovery
-* 💰 Currency and change calculation
-* 🛡️ Transaction and scam-awareness assistance
-
-**Architecture**
-
-`Smart Glasses → Smartphone → AI / Cloud → Response → Glasses`
 
 ---
 
-# 📊 GitHub
+## 🛡️ SAFESPACE PLUS
 
-<div align="center">
+### AI-Powered Digital Wellness Platform
 
-<a href="https://github.com/MAfshaan17?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github" />
-</a>
+A full-stack application combining digital journaling, habit tracking, mood tracking and AI-assisted personalization.
 
- 
-
-<a href="https://github.com/MAfshaan17?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-Explore-181717?style=for-the-badge&logo=github" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=MAfshaan17&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
-</div>
+**Stack:** `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `MongoDB` `JWT`
 
 ---
 
-# 🧩 Engineering Philosophy
+## 🎓 GRADIIFYAI
+
+### AI-Powered KCET Counselling Platform
+
+An AI-assisted platform designed to help students explore KCET college and branch possibilities using rank, category and preference-based analysis.
+
+**Stack:** `TypeScript` `React` `AI APIs` `Data Processing`
+
+---
+
+# `> engineering.principles`
+
+```text
+01  Understand the problem.
+02  Design the system.
+03  Build the smallest useful version.
+04  Test every important component.
+05  Deploy it.
+06  Learn from real usage.
+07  Improve the system.
+```
 
 <div align="center">
 
@@ -261,91 +251,144 @@ An ongoing concept focused on building an intelligent wearable assistant where s
 
 ### Learn to build better.
 
-### Turn ideas into systems.
+### Ship what matters.
 
 </div>
 
-I believe good engineering is not just about writing code.
-
-It's about understanding the problem, designing the system, choosing the right tools, building reliable components, testing them properly, and continuously improving the final product.
-
 ---
 
-# 🎯 Current Goals
-
-* Build stronger foundations in **Computer Science & DSA**
-* Develop deeper expertise in **Agentic AI**
-* Build reliable **LLM + RAG systems**
-* Improve **backend and system-design skills**
-* Deploy more projects into production
-* Contribute to meaningful open-source projects
-* Participate in hackathons and real-world engineering challenges
-* Build AI products that solve practical problems
-
----
-
-# 📈 My Development Journey
+# `> currently.learning`
 
 ```text
-Computer Science
-       │
-       ▼
-Programming & DSA
-       │
-       ▼
-Full-Stack Development
-       │
-       ▼
-Backend & System Design
-       │
-       ▼
-Machine Learning & LLMs
-       │
-       ▼
-RAG & AI Applications
-       │
-       ▼
-Agentic AI & Multi-Agent Systems
-       │
-       ▼
-Production AI Engineering
+████████████████████████████████  Agentic AI
+
+████████████████████████████░░░  RAG Systems
+
+██████████████████████████░░░░  Backend Engineering
+
+████████████████████████░░░░░░  System Design
+
+██████████████████████░░░░░░░░  DSA
+
+████████████████████░░░░░░░░░  Cloud / DevOps
+```
+
+### Deep-diving into
+
+* Multi-agent orchestration
+* LangGraph
+* Advanced RAG
+* LLM application architecture
+* Backend system design
+* API engineering
+* Authentication & security
+* Cloud deployment
+* Computer vision
+* Production AI engineering
+
+---
+
+# `> development.journey`
+
+```text
+                    COMPUTER SCIENCE
+                           │
+                           ▼
+                    PROGRAMMING
+                           │
+                           ▼
+                    WEB DEVELOPMENT
+                           │
+                           ▼
+                  BACKEND ENGINEERING
+                           │
+                           ▼
+                    AI / MACHINE LEARNING
+                           │
+                           ▼
+                         LLMs
+                           │
+                           ▼
+                         RAG
+                           │
+                           ▼
+                     AGENTIC AI
+                           │
+                           ▼
+                  PRODUCTION SYSTEMS
 ```
 
 ---
 
-# 🌐 Find Me Online
+# `> github`
 
 <div align="center">
 
-<a href="https://portfolio-gamma-green-v41b24el7g.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00D26A?style=for-the-badge" />
+<a href="https://github.com/MAfshaan17?tab=repositories">
+<img src="https://img.shields.io/badge/REPOSITORIES-VIEW%20PROJECTS-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br><br>
+ 
 
-<a href="https://github.com/MAfshaan17">
-  <img src="https://img.shields.io/badge/GitHub-MAfshaan17-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/MAfshaan17?tab=stars">
+<img src="https://img.shields.io/badge/STARS-EXPLORE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=MAfshaan17&theme=dark&hide_border=true&background=0D1117&ring=00D26A&fire=00D26A&currStreakLabel=00D26A" width="80%"/>
+
+</div>
+
+---
+
+# `> beyond.code`
+
+<div align="center">
+
+### 💡 Build useful things.
+
+### 🧠 Understand what you build.
+
+### 🚀 Keep shipping.
+
+</div>
+
+I'm interested in opportunities where I can **learn, contribute, collaborate and build meaningful software**.
+
+Whether it's an AI system, a backend architecture, a hackathon idea or an ambitious product — I'm always interested in turning a good idea into something real.
+
+---
+
+# `> connect()`
+
+<div align="center">
+
+### Let's build something great.
+
+<br>
+
+<a href="https://portfolio-gamma-green-v4lb24el7g.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00D26A?style=for-the-badge"/>
 </a>
 
  
 
 <a href="https://www.linkedin.com/in/mahammad-afshaan05/">
-  <img src="https://img.shields.io/badge/LinkedIn-Mahammad%20Afshaan-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
  
 
 <a href="mailto:mafshaan1917@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
-
-### Let's build something great.
+<br><br>
 
 **Building. Learning. Shipping.**
 
@@ -354,3 +397,5 @@ Production AI Engineering
 <sub>© Mahammad Afshaan · Built with curiosity.</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d26a,50:0b1f14,100:050505&height=120&section=footer" width="100%"/>
