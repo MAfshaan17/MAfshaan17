@@ -178,40 +178,13 @@ Swarm OS transforms an initial startup idea into structured product requirements
 
 ---
 
-## 👓 PATHGUARD
+## 🌐 Netscope
 
-### AI Assistant for Smart Glasses
+**Network Packet Analyzer & Security Monitoring Platform**
 
-A wearable AI concept where the glasses primarily handle **camera, microphone, speaker and connectivity**, while the smartphone acts as the compute hub.
+A Python-based network security tool that captures and analyzes live traffic, tracks network flows, inspects TCP/UDP activity, and identifies potentially suspicious behavior.
 
-```text
-SMART GLASSES
-     │
-     │ Camera / Mic / Audio
-     ▼
-SMARTPHONE
-     │
-     ├── AI Processing
-     ├── Navigation
-     ├── GPS
-     ├── Internet
-     └── App Orchestration
-     │
-     ▼
-REAL-WORLD ASSISTANCE
-```
-
-Potential capabilities include:
-
-* 🗺️ Turn-by-turn navigation
-* 🚧 Obstacle and hazard detection
-* 🕳️ Pothole awareness
-* 🏪 Context-aware nearby discovery
-* 💰 Currency / change assistance
-* 🛡️ Transaction awareness
-* 🎙️ Conversational voice interaction
-
----
+**Highlights:** `Python` · `Scapy` · `TCP/IP` · `Packet Analysis` · `Security Monitoring` · `Threat Detection`
 
 ## 🛡️ SAFESPACE PLUS
 
@@ -260,17 +233,17 @@ An AI-assisted platform designed to help students explore KCET college and branc
 # `> currently.learning`
 
 ```text
-████████████████████████████████  Agentic AI
+████████████████░░░░░░░░░░░░░░░ Agentic AI
 
-████████████████████████████░░░  RAG Systems
+███████████████████████░░░░░░░░  RAG Systems
 
-██████████████████████████░░░░  Backend Engineering
+██████████████░░░░░░░░░░░░░░░░░  Backend Engineering
 
 ████████████████████████░░░░░░  System Design
 
-██████████████████████░░░░░░░░  DSA
+██████████████████░░░░░░░░░░░░░  DSA
 
-████████████████████░░░░░░░░░  Cloud / DevOps
+████████████████████░░░░░░░░░  Cyber Security
 ```
 
 ### Deep-diving into
