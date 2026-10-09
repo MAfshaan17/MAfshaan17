@@ -44,7 +44,7 @@
 
 <div align="center">
 
-### AI / Agentic Systems Builder
+### AI / Agentic Systems Builder / Backend dev
 
 </div>
 
