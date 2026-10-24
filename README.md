@@ -341,7 +341,7 @@ Whether it's an AI system, a backend architecture, a hackathon idea or an ambiti
 
 <div align="center">
 
-### Let's build something great.
+### Let's build something great with AI and without AI.
 
 <br>
 
