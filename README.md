@@ -6,7 +6,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,45:123b31,100:20a879&height=210&section=header&text=Mahammad%20Afshaan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20%7C%20Backend%20Engineering%20%7C%20Product%20Building&descAlignY=60&descSize=15&animation=fadeIn"/>
 
-<a href="https://portfolio-gamma-green-v4lb24el7g.vercel.app">Portfolio</a> ·
+<a href="https://portfolio-gamma-green-v41b24el7g.vercel.app/">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/mahammad-afshaan05/">LinkedIn</a> ·
 <a href="mailto:mafshaan1917@gmail.com">Email</a> ·
 <a href="https://github.com/MAfshaan17">GitHub</a>
@@ -42,19 +42,22 @@ Transforms startup ideas into structured requirements, technical architecture, g
 
 **Stack:** Python · FastAPI · LangGraph · React · Groq
 
-### 🛰️ [LeadOrbit](https://github.com/MAfshaan17/LeadOrbit)
+### 🛰️ [AirHop](https://github.com/MAfshaan17/AirHop)
 
-**Multi-tenant outbound outreach platform**
+**Offline Disaster Communication System**
 
-A Django REST application for managing organizations, leads, campaigns, connected senders, outreach execution, and engagement analytics.
+An offline, multi-hop communication platform designed to enable emergency messaging and SOS alerts when cellular networks and internet connectivity are unavailable.
 
-- JWT authentication and tenant-scoped data
-- CSV lead import and campaign workflows
-- Gmail and Twilio integrations
-- Celery background tasks
-- AI-assisted email drafting
+**Highlights**
+- BLE-based wireless communication
+- Multi-hop message relay
+- Reed-Solomon error correction (RS 40,32)
+- GPS-based geofencing
+- Emergency SOS broadcasting
+- Offline voice alerts
+- Native C++ engine with Android integration
 
-**Stack:** Python · Django REST Framework · Celery · JavaScript · Gmail API · Twilio
+**Tech Stack:** C++ · Java · Android · JNI · Bluetooth LE · Wi-Fi Aware · GPS
 
 ### 🛡️ [NetScope](https://github.com/MAfshaan17/NetScope)
 
