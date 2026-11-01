@@ -1,374 +1,132 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    MAHAMMAD AFSHAAN                           -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
+ <!--
+  Mahammad Afshaan | GitHub Profile
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1f14,100:00d26a&height=220&section=header&text=Mahammad%20Afshaan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Agentic%20Systems%20%7C%20Software%20Engineering&Backend%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101820,45:123b31,100:20a879&height=210&section=header&text=Mahammad%20Afshaan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Systems%20%7C%20Backend%20Engineering%20%7C%20Product%20Building&descAlignY=60&descSize=15&animation=fadeIn"/>
 
-<br>
-
-<a href="https://portfolio-gamma-green-v4lb24el7g.vercel.app">
-<img src="https://img.shields.io/badge/PORTFOLIO-00D26A?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://github.com/MAfshaan17">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/mahammad-afshaan05/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
- 
-
-<a href="mailto:mafshaan1917@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MAfshaan17&label=PROFILE%20VIEWS&color=00d26a&style=flat-square"/>
+<a href="https://portfolio-gamma-green-v4lb24el7g.vercel.app">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/mahammad-afshaan05/">LinkedIn</a> ·
+<a href="mailto:mafshaan1917@gmail.com">Email</a> ·
+<a href="https://github.com/MAfshaan17">GitHub</a>
 
 </div>
 
 ---
 
-# `> whoami`
+## About
+
+I'm **Mahammad Afshaan**, a Computer Science and Business Systems student at **JSS Science and Technology University, Mysuru**.
+
+I enjoy building software that connects intelligent workflows with dependable engineering. My current interests are **Agentic AI, LLM applications, backend systems, API design, and practical product development**.
+
+I care about understanding how a system works end to end — from the user problem and architecture to implementation, testing, and deployment.
+
+> I want to build systems that are useful, understandable, and reliable — not just demos that look impressive.
+
+---
+
+## Selected Projects
+
+### 🤖 [SWARM OS](https://github.com/MAfshaan17/SWARM-OS)
+
+**Multi-agent AI product engineering platform**
+
+Transforms startup ideas into structured requirements, technical architecture, generated applications, and pitch-deck workflows using coordinated AI agents.
+
+- LangGraph agent orchestration
+- Requirement and architecture generation
+- React application generation
+- Pitch-deck generation
+
+**Stack:** Python · FastAPI · LangGraph · React · Groq
+
+### 🛰️ [LeadOrbit](https://github.com/MAfshaan17/LeadOrbit)
+
+**Multi-tenant outbound outreach platform**
+
+A Django REST application for managing organizations, leads, campaigns, connected senders, outreach execution, and engagement analytics.
+
+- JWT authentication and tenant-scoped data
+- CSV lead import and campaign workflows
+- Gmail and Twilio integrations
+- Celery background tasks
+- AI-assisted email drafting
+
+**Stack:** Python · Django REST Framework · Celery · JavaScript · Gmail API · Twilio
+
+### 🛡️ [NetScope](https://github.com/MAfshaan17/NetScope)
+
+**Network packet analysis and security monitoring**
+
+A Python network-security tool that analyzes traffic, tracks flows, detects suspicious activity, and correlates alerts into security incidents.
+
+- Live packet and flow analysis
+- Detection rules and risk assessment
+- Threat-intelligence matching
+- SOC dashboard and incident view
+- Automated regression test suite
+
+**Stack:** Python · Scapy · FastAPI · JavaScript · Pytest
+
+---
+
+## Technical Interests
+
+| Area | Technologies |
+|---|---|
+| AI Engineering | LLMs, RAG, LangGraph, AI Agents |
+| Backend | Python, FastAPI, Django, Node.js, Express |
+| Frontend | React, Next.js, TypeScript, Tailwind |
+| Databases | MongoDB, PostgreSQL, MySQL |
+| Languages | Python, C, C++, JavaScript, TypeScript |
+| Tools | Git, GitHub, Docker, Linux |
 
 <div align="center">
 
-### AI / Agentic Systems Builder / Backend dev
-
-</div>
-
-I'm **Mahammad Afshaan**, a Computer Science & Business Systems student at **JSS Science and Technology University, Mysuru**, interested in building intelligent software that moves beyond simple demos.
-
-My current focus is on combining **AI, backend engineering, system design, and real-world product development**.
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     CURRENT FOCUS                             │
-├──────────────────────────────────────────────────────────────┤
-│  🤖 Agentic AI              → Multi-agent systems             │
-│  🧠 LLM Engineering         → RAG + AI applications           │
-│  ⚙️ Backend Engineering     → APIs + system architecture      │
-│  👁️ Computer Vision         → Real-world AI                   │
-│  ☁️ Deployment              → Production-ready systems        │
-│  🧩 Product Engineering     → Idea → System → Product         │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `> about.me`
-
-* 🎓 Computer Science & Business Systems student
-* 🤖 Building with **Generative AI and Agentic AI**
-* 🧠 Exploring **LLMs, RAG, LangGraph and multi-agent architectures**
-* ⚙️ Building backend systems with **FastAPI, Node.js and Express**
-* 🗄️ Working with **MongoDB, PostgreSQL and SQL**
-* 🚀 Interested in taking AI projects from **prototype → deployment**
-* 💻 Strengthening **DSA, system design and core CS**
-* 🏗️ Building projects that solve practical problems
-
-<br>
-
-> **I don't just want to use AI. I want to understand how to build systems around it.**
-
----
-
-# `> technology.stack`
-
-### LANGUAGES
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" />
-</p>
-
-### AI / LLM
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`LangChain` · `LangGraph` · `RAG` · `LLMs` · `AI Agents` · `Gemini API` · `Groq API` · `Prompt Engineering`
-
-### FRONTEND
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-### BACKEND
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
-</p>
-
-`REST APIs` · `JWT` · `Authentication` · `API Integration`
-
-### DATABASES
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
-</p>
-
-### TOOLS / CLOUD
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,vercel" />
-</p>
-
----
-
-# `> what.i.build`
-
-<div align="center">
-
-| SYSTEM                 | WHAT IT DOES                             | CORE TECHNOLOGY               |
-| :--------------------- | :--------------------------------------- | :---------------------------- |
-| 🤖 **Swarm OS**        | Multi-agent product engineering platform | LangGraph · FastAPI · React   |
-| 🛡️ **SafeSpace Plus** | AI-powered digital wellness platform     | Next.js · MongoDB · Gemini    |
-| 🎓 **GradiifyAI**      | KCET counselling intelligence platform   | TypeScript · AI               |
-| 👓 **PathGuard**       | Smart-glasses AI assistant               | Computer Vision · AI · Mobile |
-| 🌐 **Portfolio**       | Personal engineering portfolio           | React · Vercel                |
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,nextjs,tailwind,fastapi,django,nodejs,mongodb,postgres,git,github,docker,linux&perline=9"/>
 
 </div>
 
 ---
 
-# `> featured.project`
+## Engineering Approach
 
-## 🤖 SWARM OS
-
-### Multi-Agent AI Product Engineering Platform
-
-Swarm OS transforms an initial startup idea into structured product requirements, technical architecture, and implementation-ready outputs using a coordinated AI-agent workflow.
-
-```text
-                    USER IDEA
-                        │
-                        ▼
-               ┌─────────────────┐
-               │  IDEA ANALYZER   │
-               └────────┬────────┘
-                        │
-                        ▼
-               ┌─────────────────┐
-               │ REQUIREMENT AI  │
-               └────────┬────────┘
-                        │
-             ┌──────────┴──────────┐
-             ▼                     ▼
-      ARCHITECTURE AGENT     PRODUCT AGENT
-             │                     │
-             └──────────┬──────────┘
-                        ▼
-                 OUTPUT / PLAN
-```
-
-**Stack:** `React` `Tailwind` `Python` `FastAPI` `LangGraph` `Groq API`
+1. Understand the problem and who it affects.
+2. Break the system into clear components.
+3. Choose tools based on requirements.
+4. Build a working, testable implementation.
+5. Validate integrations and edge cases.
+6. Document decisions and improve from feedback.
 
 ---
 
-## 🌐 Netscope
+## Currently Exploring
 
-**Network Packet Analyzer & Security Monitoring Platform**
-
-A Python-based network security tool that captures and analyzes live traffic, tracks network flows, inspects TCP/UDP activity, and identifies potentially suspicious behavior.
-
-**Highlights:** `Python` · `Scapy` · `TCP/IP` · `Packet Analysis` · `Security Monitoring` · `Threat Detection`
-
-## 🛡️ SAFESPACE PLUS
-
-### AI-Powered Digital Wellness Platform
-
-A full-stack application combining digital journaling, habit tracking, mood tracking and AI-assisted personalization.
-
-**Stack:** `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `MongoDB` `JWT`
+- Reliable multi-agent orchestration and tool use
+- Retrieval-augmented generation and LLM application design
+- Backend architecture, authentication, and API security
+- Testing, observability, and production deployment
+- Computer vision and real-world AI applications
 
 ---
 
-## 🎓 GRADIIFYAI
+## Let's Connect
 
-### AI-Powered KCET Counselling Platform
-
-An AI-assisted platform designed to help students explore KCET college and branch possibilities using rank, category and preference-based analysis.
-
-**Stack:** `TypeScript` `React` `AI APIs` `Data Processing`
-
----
-
-# `> engineering.principles`
-
-```text
-01  Understand the problem.
-02  Design the system.
-03  Build the smallest useful version.
-04  Test every important component.
-05  Deploy it.
-06  Learn from real usage.
-07  Improve the system.
-```
+I'm interested in collaborating on **AI applications, backend systems, developer tools, and practical software projects**.
 
 <div align="center">
 
-### Build to learn.
+<a href="https://portfolio-gamma-green-v4lb24el7g.vercel.app">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/mahammad-afshaan05/">LinkedIn</a> ·
+<a href="https://github.com/MAfshaan17">GitHub</a> ·
+<a href="mailto:mafshaan1917@gmail.com">Email</a>
 
-### Learn to build better.
+<br/><br/>
 
-### Ship what matters.
+**Build thoughtfully. Test carefully. Keep shipping.**
 
-</div>
-
----
-
-# `> currently.learning`
-
-```text
-████████████████░░░░░░░░░░░░░░░ Agentic AI
-
-███████████████████████░░░░░░░░  RAG Systems
-
-██████████████░░░░░░░░░░░░░░░░░  Backend Engineering
-
-████████████████████████░░░░░░  System Design
-
-██████████████████░░░░░░░░░░░░░  DSA
-
-████████████████████░░░░░░░░░  Cyber Security
-```
-
-### Deep-diving into
-
-* Multi-agent orchestration
-* LangGraph
-* Advanced RAG
-* LLM application architecture
-* Backend system design
-* API engineering
-* Authentication & security
-* Cloud deployment
-* Computer vision
-* Production AI engineering
-
----
-
-# `> development.journey`
-
-```text
-                    COMPUTER SCIENCE
-                           │
-                           ▼
-                    PROGRAMMING
-                           │
-                           ▼
-                    WEB DEVELOPMENT
-                           │
-                           ▼
-                  BACKEND ENGINEERING
-                           │
-                           ▼
-                    AI / MACHINE LEARNING
-                           │
-                           ▼
-                         LLMs
-                           │
-                           ▼
-                         RAG
-                           │
-                           ▼
-                     AGENTIC AI
-                           │
-                           ▼
-                  PRODUCTION SYSTEMS
-```
-
----
-
-# `> github`
-
-<div align="center">
-
-<a href="https://github.com/MAfshaan17?tab=repositories">
-<img src="https://img.shields.io/badge/REPOSITORIES-VIEW%20PROJECTS-181717?style=for-the-badge&logo=github"/>
-</a>
-
- 
-
-<a href="https://github.com/MAfshaan17?tab=stars">
-<img src="https://img.shields.io/badge/STARS-EXPLORE-181717?style=for-the-badge&logo=github"/>
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:20a879,55:123b31,100:101820&height=100&section=footer"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=MAfshaan17&theme=dark&hide_border=true&background=0D1117&ring=00D26A&fire=00D26A&currStreakLabel=00D26A" width="80%"/>
-
-</div>
-
----
-
-# `> beyond.code`
-
-<div align="center">
-
-### 💡 Build useful things.
-
-### 🧠 Understand what you build.
-
-### 🚀 Keep shipping.
-
-</div>
-
-I'm interested in opportunities where I can **learn, contribute, collaborate and build meaningful software**.
-
-Whether it's an AI system, a backend architecture, a hackathon idea or an ambitious product — I'm always interested in turning a good idea into something real.
-
----
-
-# `> connect()`
-
-<div align="center">
-
-### Let's build something great with AI and without AI.
-
-<br>
-
-<a href="https://portfolio-gamma-green-v4lb24el7g.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00D26A?style=for-the-badge"/>
-</a>
-
- 
-
-<a href="https://www.linkedin.com/in/mahammad-afshaan05/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
- 
-
-<a href="mailto:mafshaan1917@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-**Building. Learning. Shipping.**
-
-<br>
-
-<sub>© Mahammad Afshaan · Built with curiosity.</sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d26a,50:0b1f14,100:050505&height=120&section=footer" width="100%"/>
