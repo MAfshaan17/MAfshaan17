@@ -115,6 +115,48 @@ A Python network-security tool that analyzes traffic, tracks flows, detects susp
 
 ---
 
+# `> developer.journey`
+
+```text
+                 COMPUTER SCIENCE & BUSINESS SYSTEMS
+                              │
+                              ▼
+                       PROGRAMMING
+                              │
+                              ▼
+                     SOFTWARE DEVELOPMENT
+                              │
+                              ▼
+                      BACKEND ENGINEERING
+                              │
+                              ▼
+                             AI 
+                              │
+                              ▼
+                           LLMs
+                              │
+                              ▼
+                        AGENTIC AI
+                              │
+                              ▼
+                     SYSTEM ARCHITECTURE
+                              │
+                              ▼
+                    BUILDING REAL PRODUCTS
+```
+
+---
+
+# `> developer.activity`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=MAfshaan17&theme=dark&hide_border=true&background=0D1117&ring=00D26A&fire=00D26A&currStreakLabel=00D26A" width="80%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MAfshaan17&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D26A&line=00D26A&point=FFFFFF" width="100%"/>
+
+</div>
+
 ## Let's Connect
 
 I'm interested in collaborating on **AI applications, backend systems, developer tools, and practical software projects**.
