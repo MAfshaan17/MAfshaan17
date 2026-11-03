@@ -80,7 +80,7 @@ A Python network-security tool that analyzes traffic, tracks flows, detects susp
 | Area | Technologies |
 |---|---|
 | AI Engineering | LLMs, RAG, LangGraph, AI Agents |
-| Backend | Python, FastAPI, Django, Node.js, Express |
+| Backend | Python, FastAPI, Node.js, Express |
 | Frontend | React, Next.js, TypeScript, Tailwind |
 | Databases | MongoDB, PostgreSQL, MySQL |
 | Languages | Python, C, C++, JavaScript, TypeScript |
@@ -88,7 +88,7 @@ A Python network-security tool that analyzes traffic, tracks flows, detects susp
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,nextjs,tailwind,fastapi,django,nodejs,mongodb,postgres,git,github,docker,linux&perline=9"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,react,nextjs,tailwind,fastapi,nodejs,mongodb,postgres,git,github,docker,linux&perline=9"/>
 
 </div>
 
